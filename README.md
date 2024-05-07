@@ -2,12 +2,14 @@
 
 ## Repository Structure
 ```
-├── Notebooks
-│   ├── final_notebook.ipynb
-│   |   └── final_notebook.ipynb
-│   └── student.ipynb
-│       ├── notebook_template.ipynb
-│       └── vc_technical.ipynb
+├── notebook
+│   ├── learn
+│       ├── catboost_training.ipynb
+│       ├── learn_error.tsv
+│       └── time_left.tsv
+│   └── data
+│       ├── EDA STUDENT PERFORMANCE.ipynb
+│       └── MODEL TRAINING.ipynb
 |
 ├── data
 │   ├── water_well_test.csv
