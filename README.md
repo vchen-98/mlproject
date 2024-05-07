@@ -1,6 +1,7 @@
 ## Student Performance Predictor
 
-
+## Repository Structure
+```
 ├── Notebooks
 │   ├── final_notebook.ipynb
 │   |   └── final_notebook.ipynb
@@ -47,4 +48,4 @@
 |
 ├── .gitignore
 └── README.md
-
+```
